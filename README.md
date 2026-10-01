@@ -1,179 +1,324 @@
-# Hi, I'm Sankalp Jadhav
+<div align="center">
 
-### Developer • Software Engineering • AI/ML • Game Development
+# SANKALP JADHAV
 
-I'm a Computer Science & Engineering student at **Savitribai Phule Pune University**, focused on building practical software systems and developing strong foundations across software engineering, artificial intelligence, game development, cybersecurity, and cloud technologies.
+### `Developer` · `Software Engineering` · `AI/ML` · `Game Engineering`
 
-I enjoy taking an idea from **architecture → implementation → testing → interface → deployment**, with an emphasis on understanding how the system works rather than simply making it run.
+<p>
+  <a href="https://sankalpjadhav24.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/sankalp-jadhav-931ba2434/">
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:prof.sankalpjadhav@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-[Portfolio](https://sankalpjadhav24.github.io/Portfolio/) • [LinkedIn](https://www.linkedin.com/in/sankalp-jadhav-931ba2434/) • [Email](mailto:prof.sankalpjadhav@gmail.com)
+<br>
 
----
+> **Building software to understand systems, not just to make them run.**
 
-## What I'm Building
-
-My current development interests span several areas:
-
-- Software engineering and application development
-- Artificial Intelligence & Machine Learning
-- Game engineering and AI-driven games
-- Web and API development
-- Cybersecurity
-- Cloud computing
-- Developer tools and software systems
-
-My long-term goal is to become a versatile software engineer capable of designing, building, testing, and evolving complete technical systems.
+</div>
 
 ---
 
-## Featured Projects
+## `01` — About
 
-### 🎮 MindWar Arena
+I'm a **Computer Science & Engineering student at Savitribai Phule Pune University**, currently focused on becoming a stronger software engineer through hands-on development.
 
-**Offline AI-powered strategic gaming platform**
+My interests span:
 
-A unified platform for deterministic board games with configurable AI opponents, game rules, gameplay evaluation, and a reusable game-engine architecture.
+**Software Engineering · AI/ML · Game Development · Cybersecurity · Cloud · Web & Application Development**
 
-**Focus:** Game Engineering · AI · Algorithms · Software Architecture · Rendering
-
-**Technology:** Python · Pygame · ModernGL · NumPy · PyGLM · OpenGL
-
----
-
-### 🌦️ Cloudburst Prediction System
-
-**Academic AI/ML prediction application**
-
-A machine-learning based system that uses weather-related data to estimate cloudburst risk and presents prediction information geographically through an India map interface.
-
-**Focus:** Machine Learning · Data Processing · APIs · Prediction Systems · Visualization
-
-**Technology:** Python · Logistic Regression · OpenWeatherMap API · Folium
-
----
-
-### 📈 FinXpert — Smart Financial Intelligence Platform
-
-**Hackathon project**
-
-A team-built financial intelligence platform designed to analyze market signals and provide risk-profile-based insights using technical indicators.
-
-The project explored indicators such as EMA, RSI, and volatility while incorporating fallback handling for API availability.
-
-**Focus:** Financial Technology · APIs · Data Analysis · AI/ML Concepts
-
-**Technology:** Python · APIs · Technical Indicators
-
----
-
-## Technical Areas
-
-### Languages
-
-`Python` `Java` `C` `C++` `JavaScript`
-
-### Web & Application Development
-
-`HTML` `CSS` `JavaScript` `React` `Angular` `REST APIs`
-
-### Data & Databases
-
-`SQL` `NumPy`
-
-### AI / Machine Learning
-
-`Machine Learning` `Artificial Intelligence` `Generative AI` `Logistic Regression`
-
-### Game & Graphics
-
-`Pygame` `ModernGL` `OpenGL` `PyGLM`
-
-### Developer Tools
-
-`Git` `GitHub` `VS Code`
-
----
-
-## Currently Developing
-
-I'm actively strengthening my foundations in:
-
-- Java
-- Python
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- AI & Machine Learning
-- Generative AI
-- Cybersecurity
-- Cloud Computing
-- Linux
-- Software Testing
-- System Design
-- RAG and AI application development
-
-I prefer learning these areas through **projects, experimentation, implementation, and debugging** rather than only theoretical study.
-
----
-
-## Engineering Approach
-
-I think about software as a complete system rather than isolated code.
+I enjoy working on projects where architecture, algorithms, APIs, AI, rendering, and user interfaces come together into a complete system.
 
 ```text
+Idea
+  │
+  ▼
 Architecture
-     ↓
-Pipeline
-     ↓
+  │
+  ▼
 Implementation
-     ↓
+  │
+  ▼
 Testing
-     ↓
+  │
+  ▼
 Interface
-     ↓
+  │
+  ▼
 Deployment
 ```
 
-My focus is gradually developing the ability to move through this entire lifecycle—from understanding a problem and designing its architecture to implementing, testing, and delivering the final system.
+---
+
+## `02` — What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚙️ Software Systems
+
+Designing and implementing applications with attention to structure, maintainability, APIs, and reusable components.
+
+</td>
+<td width="50%">
+
+### 🧠 AI / ML
+
+Exploring machine learning, AI-powered applications, prediction systems, and intelligent software.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎮 Game Engineering
+
+Building deterministic game systems, reusable engines, AI opponents, rules, rendering pipelines, and interactive experiences.
+
+</td>
+<td width="50%">
+
+### 🔐 Security & Infrastructure
+
+Developing foundations in cybersecurity, Linux, cloud computing, networking, and reliable software systems.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Beyond Code
+# `03` — Featured Projects
 
-Alongside technical development, I participate in:
+## 🎮 MindWar Arena
 
-- **NSS**
-- **College Cybersecurity Club**
-- Technical projects and experimentation
-- Hackathons and collaborative development
+### `Offline AI-Powered Strategic Gaming Platform`
 
-These experiences help me develop communication, teamwork, problem-solving, and practical engineering habits.
+> A unified environment for deterministic board games with intelligent AI opponents, configurable difficulty, reusable game architecture, and gameplay analysis.
+
+**Engineering Focus**
+
+`Game Engine` `AI` `Algorithms` `Architecture` `Rendering` `Rules Systems`
+
+**Stack**
+
+`Python` `Pygame` `ModernGL` `OpenGL` `NumPy` `PyGLM`
+
+### System Concept
+
+```text
+┌──────────────────────────────────────────────┐
+│              MINDWAR ARENA                  │
+├──────────────────────────────────────────────┤
+│                                              │
+│  Game Registry                               │
+│       │                                      │
+│       ▼                                      │
+│  Unified Game Engine                         │
+│       │                                      │
+│       ├──────────► Game Rules                │
+│       │                                      │
+│       ├──────────► AI Controllers            │
+│       │                                      │
+│       ├──────────► Evaluation                │
+│       │                                      │
+│       └──────────► Rendering / UI             │
+│                                              │
+└──────────────────────────────────────────────┘
+```
 
 ---
 
-## Education
+## 🌦️ Cloudburst Prediction System
 
-**Bachelor of Engineering — Computer Science & Engineering**
+### `AI/ML Weather Risk Prediction`
 
-Savitribai Phule Pune University  
-Expected Graduation: **August 2027**
+An academic machine-learning application that processes weather information to estimate cloudburst risk and visualize prediction information geographically across India.
 
----
+**Engineering Focus**
 
-## Let's Connect
+`Machine Learning` `APIs` `Data Processing` `Prediction` `Visualization`
 
-I'm interested in connecting with developers, engineers, researchers, students, and teams working on interesting software and technology projects.
+**Stack**
 
-**Portfolio:**  
-https://sankalpjadhav24.github.io/Portfolio/
-
-**LinkedIn:**  
-https://www.linkedin.com/in/sankalp-jadhav-931ba2434/
-
-**Email:**  
-prof.sankalpjadhav@gmail.com
+`Python` `Logistic Regression` `OpenWeatherMap API` `Folium`
 
 ---
 
-<p align="center">
-  <i>Build. Learn. Experiment. Improve.</i>
+## 📈 FinXpert
+
+### `Smart Financial Intelligence Platform`
+
+A collaborative hackathon project exploring financial intelligence through market indicators, volatility signals, risk-profile-based recommendations, and API fallback handling.
+
+**Engineering Focus**
+
+`Financial Technology` `APIs` `Data Analysis` `Technical Indicators`
+
+**Stack**
+
+`Python` `HyperTrade API` `EMA` `RSI` `Volatility`
+
+---
+
+# `04` — Technology
+
+### Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=ED8B00">
+<img src="https://img.shields.io/badge/C-111827?style=flat-square&logo=c&logoColor=A8B9CC">
+<img src="https://img.shields.io/badge/C++-111827?style=flat-square&logo=cplusplus&logoColor=00599C">
+<img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E">
 </p>
+
+### Web & APIs
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26">
+<img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6">
+<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Angular-111827?style=flat-square&logo=angular&logoColor=DD0031">
+<img src="https://img.shields.io/badge/REST_API-111827?style=flat-square&logo=fastapi&logoColor=009688">
+</p>
+
+### AI / Data
+
+<p>
+<img src="https://img.shields.io/badge/Machine_Learning-111827?style=flat-square&logo=scikitlearn&logoColor=F7931E">
+<img src="https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=4DABCF">
+<img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1">
+<img src="https://img.shields.io/badge/Generative_AI-111827?style=flat-square&logo=openai&logoColor=FFFFFF">
+</p>
+
+### Game / Graphics
+
+<p>
+<img src="https://img.shields.io/badge/Pygame-111827?style=flat-square&logo=python&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/OpenGL-111827?style=flat-square&logo=opengl&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/ModernGL-111827?style=flat-square&logo=opengl&logoColor=FFFFFF">
+</p>
+
+### Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032">
+<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visualstudiocode&logoColor=007ACC">
+</p>
+
+---
+
+# `05` — Engineering Mindset
+
+I think about software as a system of connected layers.
+
+```text
+                    ┌──────────────┐
+                    │     UI       │
+                    └──────┬───────┘
+                           │
+                    ┌──────▼───────┐
+                    │   Features   │
+                    └──────┬───────┘
+                           │
+                    ┌──────▼───────┐
+                    │    Logic     │
+                    └──────┬───────┘
+                           │
+                    ┌──────▼───────┐
+                    │  Algorithms  │
+                    └──────┬───────┘
+                           │
+                    ┌──────▼───────┐
+                    │ Architecture │
+                    └──────────────┘
+```
+
+I try to understand **why a system is structured a certain way**, not just how to reproduce its output.
+
+---
+
+# `06` — Currently Learning
+
+```text
+Java                    █████░░░░░
+Python                  █████░░░░░
+Data Structures         ████░░░░░░
+Algorithms              ████░░░░░░
+AI / ML                 █████░░░░░
+Generative AI           ████░░░░░░
+Cybersecurity           ███░░░░░░░
+Cloud                   ███░░░░░░░
+Linux                   ███░░░░░░░
+Software Testing        ███░░░░░░░
+System Design           ██░░░░░░░░
+```
+
+> These are learning areas, not claimed proficiency levels.
+
+---
+
+# `07` — Beyond Development
+
+Alongside technical work, I'm involved in:
+
+- 🎓 Computer Science & Engineering
+- 🛡️ College Cybersecurity Club
+- 🤝 NSS
+- 💻 Collaborative project development
+- 🚀 Hackathons and technical experimentation
+
+---
+
+# `08` — GitHub
+
+<div align="center">
+
+### Building in public. Learning continuously.
+
+<img src="https://github-readme-stats.vercel.app/api?username=sankalpjadhav24&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af&icon_color=ffffff&rank_icon=github" height="165">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpjadhav24&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=9ca3af&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" height="165">
+
+</div>
+
+---
+
+# `09` — Connect
+
+<div align="center">
+
+**Interested in software engineering, AI, game technology, cybersecurity, or building something interesting?**
+
+<br>
+
+<a href="https://sankalpjadhav24.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/PORTFOLIO-Explore-111827?style=for-the-badge">
+</a>
+
+<a href="https://www.linkedin.com/in/sankalp-jadhav-931ba2434/">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-111827?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:prof.sankalpjadhav@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-Contact-111827?style=for-the-badge&logo=gmail">
+</a>
+
+<br><br>
+
+`Sankalp Jadhav` · `Developer` · `India`
+
+<br>
+
+<i>Build systems. Solve problems. Keep learning.</i>
+
+</div>
